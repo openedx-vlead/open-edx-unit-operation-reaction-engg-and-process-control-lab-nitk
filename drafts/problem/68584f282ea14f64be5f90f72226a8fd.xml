@@ -1,0 +1,56 @@
+<problem display_name="Multiple Choice" markdown="Question 1 of 5&#10;1. Under fluidized condition, pressure drop across the bed ---------------------- with the superficial velocity.?&#10;&#10;  ()  decreases&#10;  ()  increases&#10; (x)   remains constant&#10; &#10; &#10; 2. For calculation of particle Reynolds number ---------- is the characteristic dimension used?&#10;&#10;  ()  none&#10;  ()  diameter of the column&#10; (x)   equivalent diameter of the particle&#10; &#10; &#10; 3. Minimum fluidization velocity for a fluidized bed system depends on&#10;&#10;  ()  size,shape and density of particles alone&#10; (x)   Both size,shape and density of particles alone and density and viscosity of fluid&#10;  ()  density and viscosity of fluid&#10;  &#10;  4. The height of a fluidized bed at incipient fluidization is 0.075 m, and the corresponding voidage is 0.38. If the voidage of the bed increases to 0.5, then the height of the bed would be&#10;&#10;  ()  0.075 m&#10;  ()  0.058 m&#10;  ()  0.061 m&#10;(x)   0.093 m&#10;&#10;5. A 1 m high bed made up of 2 mm particles is to be fluidised by an oil (density 900 kg/m3; viscosity 0.01 Pa s). If at the point of incipient fluidisation, the bed voidage is 39% and the pressure drop across the bed is 10 kPa, then the density of particles is&#10;&#10;  ()  4350 kg/m3&#10;  ()  4000 kg/m3&#10; (x)   2571 kg/m3&#10; ()   3514 kg/m3">
+<p>Question 1 of 5</p>
+<p>1. Under fluidized condition, pressure drop across the bed ---------------------- with the superficial velocity.?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">decreases</choice>
+    <choice correct="false">increases</choice>
+    <choice correct="true">remains constant</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> </p>
+<p> 2. For calculation of particle Reynolds number ---------- is the characteristic dimension used?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">none</choice>
+    <choice correct="false">diameter of the column</choice>
+    <choice correct="true">equivalent diameter of the particle</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> </p>
+<p> 3. Minimum fluidization velocity for a fluidized bed system depends on</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">size,shape and density of particles alone</choice>
+    <choice correct="true">Both size,shape and density of particles alone and density and viscosity of fluid</choice>
+    <choice correct="false">density and viscosity of fluid</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  4. The height of a fluidized bed at incipient fluidization is 0.075 m, and the corresponding voidage is 0.38. If the voidage of the bed increases to 0.5, then the height of the bed would be</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0.075 m</choice>
+    <choice correct="false">0.058 m</choice>
+    <choice correct="false">0.061 m</choice>
+    <choice correct="true">0.093 m</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. A 1 m high bed made up of 2 mm particles is to be fluidised by an oil (density 900 kg/m3; viscosity 0.01 Pa s). If at the point of incipient fluidisation, the bed voidage is 39% and the pressure drop across the bed is 10 kPa, then the density of particles is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">4350 kg/m3</choice>
+    <choice correct="false">4000 kg/m3</choice>
+    <choice correct="true">2571 kg/m3</choice>
+    <choice correct="false">3514 kg/m3</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
