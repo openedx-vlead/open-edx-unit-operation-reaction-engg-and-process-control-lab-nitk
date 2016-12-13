@@ -1,0 +1,77 @@
+{
+    "FTP.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CHEM05", 
+            "name": "FTP.swf", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "FTP.swf", 
+        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@FTP.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CHEM05", 
+            "name": "NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "NITK-Unit Operation, Reaction Engg. _ Process Control.jpg", 
+        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "NIT-Surathkal", 
+            "CHEM05", 
+            "thumbnail", 
+            "NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
+            null
+        ]
+    }, 
+    "lab_spec.js": {
+        "contentType": "application/javascript", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CHEM05", 
+            "name": "lab_spec.js", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "lab_spec.js", 
+        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@lab_spec.js", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "utils.js": {
+        "contentType": "application/javascript", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CHEM05", 
+            "name": "utils.js", 
+            "org": "NIT-Surathkal", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "utils.js", 
+        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@utils.js", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }
+}

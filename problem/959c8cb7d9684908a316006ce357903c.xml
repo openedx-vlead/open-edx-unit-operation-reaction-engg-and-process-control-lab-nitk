@@ -1,0 +1,56 @@
+<problem display_name="Multiple Choice" markdown="1. The unit of viscosity in CGS system is commonly known as Poise. The dimension of Poise is?&#10;&#10; ()   g/cm.s2&#10;  (x)  g/cm.s&#10;  ()  g.cm/s&#10;  ()  g.cm2/s&#10; &#10;  2. If the equivalent length of a 90º elbow is greater than the 45º elbow, the pressure loss across the 90º elbow is --------- the 45º elbow .&#10;&#10;  ()  lesser than&#10;  ()  same as&#10;  (x)  greater than&#10; &#10;  3. The loss of pressure head for the laminar flow through pipes varies as&#10;&#10;  ()  inverse of the square of velocity&#10;  ()  square of velocity&#10; (x)   proportional to the velocity&#10;  ()  inverse of velocity&#10; &#10;  4. Reynolds number is a ratio of&#10;&#10;  ()  momentum diffusivity to molecular diffusivity&#10;  ()  momentum diffusivity to thermal diffusivity&#10;  (x)  inertial force to viscous force&#10;  ()  average velocity to velocity of sound&#10; &#10;  5. Water flows laminarly through a tube of dia 1 cm. The average water velocity is uav and the maximum velocity is umax. Then&#10;&#10;  ()  umax = 3 uav&#10;  ()  umax = 2.5 uav&#10; (x)   umax = 2 uav&#10;  ()  umax = 1.5 uav">
+<p>1. The unit of viscosity in CGS system is commonly known as Poise. The dimension of Poise is?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">g/cm.s2</choice>
+    <choice correct="true">g/cm.s</choice>
+    <choice correct="false">g.cm/s</choice>
+    <choice correct="false">g.cm2/s</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p>  2. If the equivalent length of a 90º elbow is greater than the 45º elbow, the pressure loss across the 90º elbow is --------- the 45º elbow .</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">lesser than</choice>
+    <choice correct="false">same as</choice>
+    <choice correct="true">greater than</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p>  3. The loss of pressure head for the laminar flow through pipes varies as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">inverse of the square of velocity</choice>
+    <choice correct="false">square of velocity</choice>
+    <choice correct="true">proportional to the velocity</choice>
+    <choice correct="false">inverse of velocity</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p>  4. Reynolds number is a ratio of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">momentum diffusivity to molecular diffusivity</choice>
+    <choice correct="false">momentum diffusivity to thermal diffusivity</choice>
+    <choice correct="true">inertial force to viscous force</choice>
+    <choice correct="false">average velocity to velocity of sound</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p>  5. Water flows laminarly through a tube of dia 1 cm. The average water velocity is uav and the maximum velocity is umax. Then</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">umax = 3 uav</choice>
+    <choice correct="false">umax = 2.5 uav</choice>
+    <choice correct="true">umax = 2 uav</choice>
+    <choice correct="false">umax = 1.5 uav</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
