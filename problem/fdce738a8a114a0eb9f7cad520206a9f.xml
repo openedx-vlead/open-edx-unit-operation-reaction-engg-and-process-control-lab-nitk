@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1. Under otherwise uniform conditions Fanning friction factor for a rough pipe is?&#10;&#10;  ( )  smaller than that for a smooth pipe&#10;  ( )  equal to that for a smooth pipe&#10;  (x)  greater than that for a smooth pipe&#10;  &#10;2. For laminar flow in a pipe, the Fanning friction factor depends on Reynolds number according to the relation?&#10;&#10; ( ) f = 24/ Re&#10; ( ) f = 18.5/ Re&#10; (x) f = 16/ Re&#10; ( ) none&#10; &#10;3. Applying a pressure drop across a capillary results in a volumetric flow rate Q under laminar flow conditions. The flow rate, for the same pressure drop, in a capillary of the same length but half the radius is.&#10;&#10; ( )  Q/2&#10; ( )  Q/4&#10; (x)  Q/8&#10; ( )  Q/16&#10; &#10; 4. For hydraulically smooth pipe, the resistance to flow depends only on the?&#10;&#10; ( )  relative roughness.&#10; ( )  absolute roughness&#10; ( )  flow Reynolds number&#10; (x)  Reynolds number and relative roughness.&#10; &#10; 5. Two identical pressure gauges at the foot of two storage tanks that are at the same elevation, the water levels in the     tanks are the same, one tank holds 1,00,000 litre (tank 1), the other holds 1000 litre (tank 1),. Say which one is true?&#10;&#10; ( )   Pressure gauge reading of tank 1 is greater than that of tank 2&#10; ( )   Pressure gauge reading of tank 2 is greater than that of tank 1&#10; (x)   Pressure gauge reading of tank 1 and that of tank 2 are same&#10; &#10; ">
+  <p>1. Under otherwise uniform conditions Fanning friction factor for a rough pipe is?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">smaller than that for a smooth pipe</choice>
+      <choice correct="false">equal to that for a smooth pipe</choice>
+      <choice correct="true">greater than that for a smooth pipe</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>2. For laminar flow in a pipe, the Fanning friction factor depends on Reynolds number according to the relation?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">f = 24/ Re</choice>
+      <choice correct="false">f = 18.5/ Re</choice>
+      <choice correct="true">f = 16/ Re</choice>
+      <choice correct="false">none</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>3. Applying a pressure drop across a capillary results in a volumetric flow rate Q under laminar flow conditions. The flow rate, for the same pressure drop, in a capillary of the same length but half the radius is.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Q/2</choice>
+      <choice correct="false">Q/4</choice>
+      <choice correct="true">Q/8</choice>
+      <choice correct="false">Q/16</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 4. For hydraulically smooth pipe, the resistance to flow depends only on the?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">relative roughness.</choice>
+      <choice correct="false">absolute roughness</choice>
+      <choice correct="false">flow Reynolds number</choice>
+      <choice correct="true">Reynolds number and relative roughness.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 5. Two identical pressure gauges at the foot of two storage tanks that are at the same elevation, the water levels in the     tanks are the same, one tank holds 1,00,000 litre (tank 1), the other holds 1000 litre (tank 1),. Say which one is true?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Pressure gauge reading of tank 1 is greater than that of tank 2</choice>
+      <choice correct="false">Pressure gauge reading of tank 2 is greater than that of tank 1</choice>
+      <choice correct="true">Pressure gauge reading of tank 1 and that of tank 2 are same</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> </p>
+</problem>

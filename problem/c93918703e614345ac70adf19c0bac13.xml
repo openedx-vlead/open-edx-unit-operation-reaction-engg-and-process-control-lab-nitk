@@ -1,0 +1,48 @@
+<problem display_name="Multiple Choice" markdown="1. Batch process is preferred over continuous process, when the?&#10;&#10; ()   reactants are in gaseous phase&#10; ()   sales demand of product is not steady&#10;  ()  reactions are accompanied with release of energy&#10;  ()  none&#10;  &#10;  2. The conversion of a reactant, undergoing a first-order reaction, at a time equal to three times the half life of the reaction is&#10;&#10;  ()  0.425&#10;  ()  0.5&#10; ()   0.87&#10;  ()  Not possible to calculate because of insufficient data&#10;  &#10;  3. In case of batch reactor ,the input and output terms of material balance equation are zero?&#10;&#10; ()   True&#10; ()   False&#10; &#10;4. The conversion of a reactant, undergoing a first-order reaction, at a time equal to three times the half life of the reaction is&#10;&#10;()    0.87&#10; ()   0.5&#10; ()   0.425&#10;()    Not possible to calculate because of insufficient data&#10;&#10;5. Batch process is preferred over continuous process, when the&#10;&#10; ()   sales demand of product is not steady&#10;  ()  none&#10;  ()  reactants are in gaseous phase&#10;  ()  reactions are accompanied with release of energy">
+  <p>1. Batch process is preferred over continuous process, when the?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">reactants are in gaseous phase</choice>
+      <choice correct="false">sales demand of product is not steady</choice>
+      <choice correct="false">reactions are accompanied with release of energy</choice>
+      <choice correct="false">none</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  2. The conversion of a reactant, undergoing a first-order reaction, at a time equal to three times the half life of the reaction is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0.425</choice>
+      <choice correct="false">0.5</choice>
+      <choice correct="false">0.87</choice>
+      <choice correct="false">Not possible to calculate because of insufficient data</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. In case of batch reactor ,the input and output terms of material balance equation are zero?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>4. The conversion of a reactant, undergoing a first-order reaction, at a time equal to three times the half life of the reaction is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0.87</choice>
+      <choice correct="false">0.5</choice>
+      <choice correct="false">0.425</choice>
+      <choice correct="false">Not possible to calculate because of insufficient data</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Batch process is preferred over continuous process, when the</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">sales demand of product is not steady</choice>
+      <choice correct="false">none</choice>
+      <choice correct="false">reactants are in gaseous phase</choice>
+      <choice correct="false">reactions are accompanied with release of energy</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

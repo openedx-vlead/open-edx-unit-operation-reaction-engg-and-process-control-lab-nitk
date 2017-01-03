@@ -1,0 +1,50 @@
+<problem display_name="Multiple Choice" markdown="1. Flow –head relationship for venture meter is.&#10;&#10;  (x)  nonlinear&#10;  ()  cannot say&#10;  ()  linear&#10;  &#10;  2. Which one of the following is a variable area meter??&#10;&#10;  ()  venturimeter&#10; ()   Pitot tube&#10;  (x)  Rotameter&#10;  ()  orificemeter&#10;  &#10;  3. Constant coefficient of discharge for venturimeter connected to 2 to 8’ pipe diameters is approximately around?&#10;&#10; ()   1&#10; ()   0.6&#10; (x)   0.98&#10; ()   0.2&#10; &#10; &#10; 4. Diff. Pressure created by a venture tube is&#10;&#10;(x)    directly propotional to the flow rate&#10; ()   directly propotional to square of flow rate&#10; ()   inversely propotional to square of flow rate&#10;  ()  inversely propotional to the flow rate&#10;  &#10;  5. Venturimeter can be used for measuring the flow rate of&#10;&#10;  ()  gasses only&#10;  (x)  both for liquids and gases&#10;  ()  liquid only">
+  <p>1. Flow –head relationship for venture meter is.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">nonlinear</choice>
+      <choice correct="false">cannot say</choice>
+      <choice correct="false">linear</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  2. Which one of the following is a variable area meter??</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">venturimeter</choice>
+      <choice correct="false">Pitot tube</choice>
+      <choice correct="true">Rotameter</choice>
+      <choice correct="false">orificemeter</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. Constant coefficient of discharge for venturimeter connected to 2 to 8’ pipe diameters is approximately around?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="false">0.6</choice>
+      <choice correct="true">0.98</choice>
+      <choice correct="false">0.2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> </p>
+  <p> 4. Diff. Pressure created by a venture tube is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">directly propotional to the flow rate</choice>
+      <choice correct="false">directly propotional to square of flow rate</choice>
+      <choice correct="false">inversely propotional to square of flow rate</choice>
+      <choice correct="false">inversely propotional to the flow rate</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  5. Venturimeter can be used for measuring the flow rate of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">gasses only</choice>
+      <choice correct="true">both for liquids and gases</choice>
+      <choice correct="false">liquid only</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

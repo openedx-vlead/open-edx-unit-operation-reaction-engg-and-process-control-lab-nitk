@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. Superficial velocity is the?&#10;&#10;  ()  velocity through the voids in packed bed&#10;  ()  velocity above the minimum fluidization velocity&#10; (x)   empty tower velocity in packed bed&#10; &#10; 2. Pressure drop across the packed bed is calculated using?&#10;&#10;  ()  Bernoullis principle&#10;  ()  Newtons law&#10;  (x)  Ergun equation&#10;  &#10;  3. Ergun equation is valid for&#10;&#10; (x)   for all types of flow&#10;  ()  only laminar flow&#10;  ()  only turbulent flow.&#10;  &#10;  4. The value of sphericity for spherical particles is&#10;&#10; (x)   1&#10;  ()  0.3&#10;  ()  0&#10;  &#10;  5. Pressure drop across the packed bed is a -------------- function of superficial velocity when NRep&gt;1000&#10;&#10;  ()  linear&#10; (x)   nonlinear&#10;  ()  may be linear or nonlinear depending on the velocity&#10;    ">
+  <p>1. Superficial velocity is the?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">velocity through the voids in packed bed</choice>
+      <choice correct="false">velocity above the minimum fluidization velocity</choice>
+      <choice correct="true">empty tower velocity in packed bed</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 2. Pressure drop across the packed bed is calculated using?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Bernoullis principle</choice>
+      <choice correct="false">Newtons law</choice>
+      <choice correct="true">Ergun equation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. Ergun equation is valid for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">for all types of flow</choice>
+      <choice correct="false">only laminar flow</choice>
+      <choice correct="false">only turbulent flow.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  4. The value of sphericity for spherical particles is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1</choice>
+      <choice correct="false">0.3</choice>
+      <choice correct="false">0</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  5. Pressure drop across the packed bed is a -------------- function of superficial velocity when NRep&gt;1000</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">linear</choice>
+      <choice correct="true">nonlinear</choice>
+      <choice correct="false">may be linear or nonlinear depending on the velocity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+</problem>
