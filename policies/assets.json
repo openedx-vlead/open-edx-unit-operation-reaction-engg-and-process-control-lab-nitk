@@ -1,6 +1,6 @@
 {
     "FTP.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "CHEM05", 
@@ -12,7 +12,7 @@
         }, 
         "displayname": "FTP.swf", 
         "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@FTP.swf", 
-        "import_path": null, 
+        "import_path": "FTP.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -29,7 +29,7 @@
         }, 
         "displayname": "NITK-Unit Operation, Reaction Engg. _ Process Control.jpg", 
         "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
-        "import_path": null, 
+        "import_path": "NITK-Unit Operation, Reaction Engg. _ Process Control.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -41,7 +41,7 @@
         ]
     }, 
     "lab_spec.js": {
-        "contentType": "application/javascript", 
+        "contentType": "text/javascript", 
         "content_son": {
             "category": "asset", 
             "course": "CHEM05", 
@@ -53,12 +53,12 @@
         }, 
         "displayname": "lab_spec.js", 
         "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@lab_spec.js", 
-        "import_path": null, 
+        "import_path": "lab_spec.js", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "utils.js": {
-        "contentType": "application/javascript", 
+        "contentType": "text/javascript", 
         "content_son": {
             "category": "asset", 
             "course": "CHEM05", 
@@ -70,7 +70,7 @@
         }, 
         "displayname": "utils.js", 
         "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@utils.js", 
-        "import_path": null, 
+        "import_path": "utils.js", 
         "locked": false, 
         "thumbnail_location": null
     }
