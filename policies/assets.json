@@ -3,15 +3,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "CHEM05", 
+            "course": "chemengg05", 
             "name": "FTP.swf", 
-            "org": "NIT-Surathkal", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "FTP.swf", 
-        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@FTP.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg05+Anytime+type@asset+block@FTP.swf", 
         "import_path": "FTP.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -20,56 +20,56 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CHEM05", 
+            "course": "chemengg05", 
             "name": "NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
-            "org": "NIT-Surathkal", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "NITK-Unit Operation, Reaction Engg. _ Process Control.jpg", 
-        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemengg05+Anytime+type@asset+block@NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
         "import_path": "NITK-Unit Operation, Reaction Engg. _ Process Control.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "NIT-Surathkal", 
-            "CHEM05", 
+            "Virtual-Labs", 
+            "chemengg05", 
             "thumbnail", 
             "NITK-Unit_Operation__Reaction_Engg.___Process_Control.jpg", 
             null
         ]
     }, 
     "lab_spec.js": {
-        "contentType": "text/javascript", 
+        "contentType": "application/javascript", 
         "content_son": {
             "category": "asset", 
-            "course": "CHEM05", 
+            "course": "chemengg05", 
             "name": "lab_spec.js", 
-            "org": "NIT-Surathkal", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "lab_spec.js", 
-        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@lab_spec.js", 
+        "filename": "asset-v1:Virtual-Labs+chemengg05+Anytime+type@asset+block@lab_spec.js", 
         "import_path": "lab_spec.js", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "utils.js": {
-        "contentType": "text/javascript", 
+        "contentType": "application/javascript", 
         "content_son": {
             "category": "asset", 
-            "course": "CHEM05", 
+            "course": "chemengg05", 
             "name": "utils.js", 
-            "org": "NIT-Surathkal", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "utils.js", 
-        "filename": "asset-v1:NIT-Surathkal+CHEM05+Anytime+type@asset+block@utils.js", 
+        "filename": "asset-v1:Virtual-Labs+chemengg05+Anytime+type@asset+block@utils.js", 
         "import_path": "utils.js", 
         "locked": false, 
         "thumbnail_location": null
